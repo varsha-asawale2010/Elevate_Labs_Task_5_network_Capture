@@ -40,10 +40,10 @@ See echo request and reply packets when you ping a server.
 
 
 ## 8. Summarize our Findings and Packet Details
-DNS Queries: Your computer sent DNS queries to resolve domain names, receiving corresponding IP addresses in the responses.
-HTTP Requests: When accessing websites, HTTP GET requests were sent, and responses were received, containing the requested web pages.
-TCP Handshakes: Before data transmission, TCP connections were established using the three-way handshake process.
-ICMP Packets: Using the ping command generated ICMP echo request and reply packets, indicating connectivity with the target server.
+1.DNS Queries: Your computer sent DNS queries to resolve domain names, receiving corresponding IP addresses in the responses.<br>
+2.HTTP Requests: When accessing websites, HTTP GET requests were sent, and responses were received, containing the requested web pages.<br>
+3.TCP Handshakes: Before data transmission, TCP connections were established using the three-way handshake process.<br>
+4.ICMP Packets: Using the ping command generated ICMP echo request and reply packets, indicating connectivity with the target server.<br>
 
 
 
