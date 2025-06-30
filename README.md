@@ -35,6 +35,16 @@ Notice the three-way handshake (SYN, SYN-ACK, ACK) when initiating a connection.
 ICMP (Internet Control Message Protocol):Used for diagnostic purposes, like the ping command.
 See echo request and reply packets when you ping a server.
 
+## Export the capture here
+
+
+
+## 8. Summarize our Findings and Packet Details
+DNS Queries: Your computer sent DNS queries to resolve domain names, receiving corresponding IP addresses in the responses.
+HTTP Requests: When accessing websites, HTTP GET requests were sent, and responses were received, containing the requested web pages.
+TCP Handshakes: Before data transmission, TCP connections were established using the three-way handshake process.
+ICMP Packets: Using the ping command generated ICMP echo request and reply packets, indicating connectivity with the target server.
+
 
 
 
