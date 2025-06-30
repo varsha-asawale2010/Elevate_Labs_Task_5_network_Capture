@@ -2,7 +2,7 @@
 ## Task Name: Capture and Analyze Network Traffic Using Wireshark.
 ## Installation successfull
 ![image](https://github.com/user-attachments/assets/f2ba3fcf-33be-4418-81be-458fe5cf79b1)
-## Start Capturing using wireshark
+## Start packets Capturing using wireshark
 ![image](https://github.com/user-attachments/assets/7da4d118-376d-4da0-bbd5-4852be38c21d)
 ## Ping server and generate some traffic
 ## ping website name:github.com
